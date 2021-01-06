@@ -1,0 +1,16 @@
+today i make one repo and create 3 branch of it.
+then i perform many branch operation and merge option on it.
+i also perform log command  and its options.
+i perform many new command of git today.
+like
+$ git revert cee8801ed9d00b11c683712171142c8d0b68361d
+git push --set-upstream origin color
+git log
+git log -- oneline
+git log --oneline --decorate
+git show head
+and many more.
+
+i first perform commit operation nd then perform revert command on it.
+i also perform revert on merge.
+it was like very learning day.
