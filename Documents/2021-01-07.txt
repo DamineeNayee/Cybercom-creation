@@ -1,0 +1,4 @@
+Today i learn some new command of git.
+i learn git reset command 
+i try to create one local repository and create 3 file there.there i  want to push that files to my existing another repository.
+so first i add my another repository's remote path to my local repository. through the command git remote add "url"  then i push my local file to that repository throuh git push origin but it shows error.so i found solution on google for that i write gir push origin --mirror and it works but i don't know the use of that command so i search for that and collect information about taht command.i also search information about sqaush nd revert commands.
