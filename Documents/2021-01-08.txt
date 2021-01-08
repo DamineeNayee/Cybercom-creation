@@ -1,0 +1,3 @@
+today i first swa 8 video of js in Morning. i know what is the use of java script. js is used for dynamic web page it is object oriented language. i learn data types of js and type corecion and varialble mutation in js. 
+i also know the type of js like string boolean number  undefiened null. i also know the operartor precedence in js.
+i learn if condition in it.in meeting i learn div span ol ul table tag. then i also finished my task. i also learn css style attributes and many things.
