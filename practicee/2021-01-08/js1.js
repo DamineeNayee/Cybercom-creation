@@ -1,1 +1,23 @@
-
+console.log("hello world");
+var name="daminee";
+var std=12;
+var pass=true;
+var c;
+console.log(name);
+console.log(std);
+console.log(pass);
+console.log(c);
+c="2ww";
+console.log(c);
+console.log(name+ "is " + std + "is" + pass);
+document.write(name);
+alert("your js is working");
+var sum=prompt("enter sum ");
+document.write(sum);
+var a=10,b=8,c;
+c=a+b;
+console.log(c);
+c=a*b+a;
+console.log(c);
+c=a*a/(a+b);
+console.log(c);
