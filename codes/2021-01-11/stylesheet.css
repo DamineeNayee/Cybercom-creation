@@ -1,0 +1,55 @@
+.img1{
+	border: 1px solid #ddd;
+  border-radius: 50%;
+  max-width: 50%;
+        max-height: 50%;
+        display: block; 
+        margin-left: 15%;
+}
+.child1-nest1{
+height:80%;
+width:120%;
+float:left;
+border-bottom: 1px solid white;
+
+
+
+}
+.bottomdiv{
+	display: flex;
+  	justify-content: center;
+  	margin-top: 5%;
+  	border-bottom:  2px solid #ddd;
+  	width:65%;
+  	margin-left: 18%;
+  	color:#A9A9A9;
+  	font-style: bold;
+}
+.child1-nest2{
+
+text-align: center;
+background: #F5F5F5;
+color:#808080;
+border-top: 1px solid white;
+
+}
+.child1{
+
+height:250px;
+width:190px;
+float:left;
+	border: 2px solid #ddd;
+  border-radius: 4px;
+  margin-right: 20px;
+
+}
+
+.grid-container{
+
+	display: flex;
+  	justify-content: center;
+	height:100%;
+	width:100%;
+	margin-top: 3px;
+
+}
